@@ -1,0 +1,21 @@
+grammar OneOfEverythingGrammar
+
+@void ws 	= 	.whitespaceOrNewline*
+boolean 	= 	("true" | "false") 	ws
+integer		=	.decimalDigit+ 	ws
+byte		=	.decimalDigit+		ws
+word		=	.decimalDigit+		ws
+longWord	=	.decimalDigit+		ws
+longLongWord	=	.decimalDigit+		ws
+unsignedInteger	=	.decimalDigit+		ws
+unsignedByte	=	.decimalDigit+		ws
+unsignedWord	=	.decimalDigit+		ws
+unsignedLongWord=	.decimalDigit+		ws
+unsignedLongLongWord=	.decimalDigit+		ws
+float		=	.decimalDigit+ "." .decimalDigit+	ws
+double		=	.decimalDigit+	"." .decimalDigit+	ws
+string		=	.letter+		ws
+oneOfEverything	=	boolean integer byte word longWord longLongWord
+			unsignedInteger unsignedByte unsignedWord
+			unsignedLongWord unsignedLongLongWord
+			float double string string? ws 

@@ -1,0 +1,187 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Decoding/Parsing Decoder.swift",
+      "line": null,
+      "symbol": "_ParsingDecoder",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Logging/Log.swift",
+      "line": 14,
+      "symbol": "Log",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Logging/Log.swift",
+      "line": 16,
+      "symbol": "Log.decoding",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Logging/Log.swift",
+      "line": 16,
+      "symbol": "Log.parsing",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Logging/Log.swift",
+      "line": 18,
+      "symbol": "Log._parsingLog",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Logging/Log.swift",
+      "line": 19,
+      "symbol": "Log._decodingLog",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Logging/Log.swift",
+      "line": 21,
+      "symbol": "Log.parsingLog",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Logging/Log.swift",
+      "line": 22,
+      "symbol": "Log.decodingLog",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Logging/Log.swift",
+      "line": 24,
+      "symbol": "Log.enable()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Logging/Log.swift",
+      "line": 34,
+      "symbol": "Log.disable()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Parser/Intermediate Representations/IntermediateRepresentation.swift",
+      "line": 63,
+      "symbol": "IntermediateRepresentation.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Parser/Intermediate Representations/Streams/TokenStream.swift",
+      "line": 44,
+      "symbol": "TokenStream.init(_:using:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Parser/Intermediate Representations/Streams/TokenStream.swift",
+      "line": 50,
+      "symbol": "TokenStream.init(_:using:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Implementations/ReferenceRule.swift",
+      "line": 27,
+      "symbol": "ReferenceRule",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Implementations/ReferenceRule.swift",
+      "line": 30,
+      "symbol": "ReferenceRule.references",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Implementations/ReferenceRule.swift",
+      "line": 32,
+      "symbol": "ReferenceRule.init(_:and:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Implementations/SequenceRule.swift",
+      "line": 27,
+      "symbol": "SequenceRule",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Implementations/SequenceRule.swift",
+      "line": 30,
+      "symbol": "SequenceRule.sequence",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Implementations/SequenceRule.swift",
+      "line": 32,
+      "symbol": "SequenceRule.init(_:and:for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Rule+Extensions.swift",
+      "line": 168,
+      "symbol": "Rule.reference(_:annotations:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Terminals/EndOfFile.swift",
+      "line": 27,
+      "symbol": "EndOfFile",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Terminals/EndOfFile.swift",
+      "line": 42,
+      "symbol": "EndOfFile.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Terminals/Terminal.swift",
+      "line": null,
+      "symbol": "Terminal",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Terminals/Terminal.swift",
+      "line": null,
+      "symbol": "Terminal",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Rules/Terminals/Terminal.swift",
+      "line": 28,
+      "symbol": "Terminal",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/nhughes/Documents/Code/SPM/OysterKit/Sources/OysterKit/Tokens/TokenType.swift",
+      "line": 36,
+      "symbol": "TokenType.==(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.static",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/nhughes/Documents/Code/SPM/OysterKit"
+}
