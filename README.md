@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-4.2-orange.svg?style=flat" style="max-height: 300px;" alt="Swift"/></a>
+<a href="https://developer.apple.com/swift/"><img src="https://img.shields.io/badge/Swift-5.0-orange.svg?style=flat" style="max-height: 300px;" alt="Swift"/></a>
 <img src="https://img.shields.io/badge/platforms-Linux%20%7C%20MacOS%20%7C%20iOS%20%7C%20tvOS%20%7C%20watchOS-green.svg" alt="Platforms">
 <img src="https://img.shields.io/pypi/l/Django.svg" alt="BSD">
 <a href="https://travis-ci.org/SwiftStudies/OysterKit">
@@ -28,7 +28,7 @@ OysterKit enables native Swift scanning, lexical analysis, and parsing capabilit
  	- [Tutorials](https://github.com/SwiftStudies/OysterKit/tree/master/Documentation/Tutorials) Tutorials for using OysterKit and STLR for defining and exploiting grammars. 
  - [stlrc Command Line Tool reference](https://github.com/SwiftStudies/OysterKit/blob/master/Documentation/stlr-toolc.md) Instructions for using the ````stlrc```` command line tool. Note that some of the tutorials referenced above also provide some concrete usage examples.
 
-__Please note__ all development is now for Swift 4.2 and beyond only. If you wish to use the last Swift 4.1 compatible release please use the ```swift/4.1``` branch 
+__Please note__ all development is now for Swift 5.0 and beyond only. If you wish to use the last Swift 4.1 compatible release please use the ```swift/4.1``` branch 
 
 ## Key Features
 
